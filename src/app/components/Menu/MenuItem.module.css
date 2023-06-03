@@ -1,0 +1,15 @@
+
+.menuItem
+{
+    color:black;
+    font-size: 3vh;
+    text-align: center;
+    
+
+}
+
+
+.menuItem:hover {
+    background-color: #ECF39E;
+    cursor: pointer;
+  }
